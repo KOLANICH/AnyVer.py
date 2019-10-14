@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8.3769mm" height="7.7652mm" version="1.1" viewBox="0 0 8.3769 7.7652" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<title>AnyVer logo</title>
+	<metadata>
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title>AnyVer logo</dc:title>
+				<cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+				<dc:creator>
+					<cc:Agent>
+						<dc:title>KOLANICH</dc:title>
+					</cc:Agent>
+				</dc:creator>
+				<dc:subject>
+					<rdf:Bag>
+						<rdf:li>AnyVer</rdf:li>
+					</rdf:Bag>
+				</dc:subject>
+			</cc:Work>
+			<cc:License rdf:about="https://creativecommons.org/publicdomain/zero/1.0/">
+				<cc:permits rdf:resource="https://creativecommons.org/ns#Reproduction"/>
+				<cc:permits rdf:resource="https://creativecommons.org/ns#Distribution"/>
+				<cc:permits rdf:resource="https://creativecommons.org/ns#DerivativeWorks"/>
+			</cc:License>
+		</rdf:RDF>
+	</metadata>
+	<g transform="translate(-34.199 -87.428)" fill="none" stroke-width=".5">
+		<path d="m38.413 95.061-1.0094-7.546-1.7059 5.4781" stroke="#0f0"/>
+		<path d="m37.342 93.702 2.0066-0.57994" stroke="#f00"/>
+		<path d="m37.403 87.515 2.3731 6.9018 2.5655-6.9018" stroke="#00f"/>
+		<path d="m40.094 91.736-4.5321 1.2961" stroke="#0f0"/>
+		<path d="m39.573 93.058c0.01456-0.0049 0.56032-0.16228 0.79393-0.22946" stroke="#f00"/>
+		<path d="m35.685 93.01-1.2736 2.0512" stroke="#ff0"/>
+	</g>
+</svg>
